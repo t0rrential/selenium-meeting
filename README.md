@@ -3,7 +3,7 @@
 Run the python file and see your rank and GPA printed in the terminal!
 
 Required Imports:
-  selenium
-  inquirer
+>  selenium
+>  inquirer
 
 run "pip install selenium inquirer" !
